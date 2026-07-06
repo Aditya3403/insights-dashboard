@@ -4,6 +4,8 @@ A responsive implementation of the **ERIC Robotics Insight.IO Dashboard**, built
 
 The objective of this project was to faithfully recreate the provided dashboard UI while implementing the required interactive features including camera view, 2D/3D map visualization, responsive layout, and modular component architecture.
 
+URL: https://insights-dashboard-iota-six.vercel.app/
+
 ---
 
 # Features
