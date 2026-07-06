@@ -70,7 +70,7 @@ const Map = ({
 
       {/* Emergency */}
 
-      <div className="absolute right-3 sm:right-5 lg:right-8 bottom-20 sm:bottom-32 lg:bottom-36">
+      <div className="absolute right-3 sm:right-5 lg:right-8 bottom-20 sm:bottom-32 lg:bottom-44">
         <Emergency />
       </div>
 
